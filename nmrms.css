@@ -103,8 +103,16 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 1em;
 }
 
-.left, .right {
+.left {
    float: left;
    width: 50%;
    height: 100%;
+   padding-right: 10px
+}
+
+.right {
+   float: left;
+   width: 50%;
+   height: 100%;
+   padding-left: 10px
 }
