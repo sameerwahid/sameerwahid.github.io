@@ -54,6 +54,9 @@ body	{
 	font-size:110%;
 	line-height: 155%;
 	}
+#footnote   {
+	font-size:60%;
+        }
 #contact	{
 	padding:0px 0 0 50px;
 	}
